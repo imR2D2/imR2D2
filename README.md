@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arturo Hernández</h1>
-<h3 align="center">A Software Engineering Student From México</h3>
+<h3 align="center">A Software Engineering Student From México | Oracle One Student</h3>
 
-- 🌱 I’m currently learning **ReactJS, ML, Django**
+- 🌱 I’m currently learning **Data Science,ML and Solidity**
 
 - 👨‍💻 All of my projects are available at [imrtr.onrender.com](imrtr.onrender.com)
 
