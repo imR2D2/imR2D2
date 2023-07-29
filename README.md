@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imr2d2&label=Profile%20views&color=0e75b6&style=flat" alt="imr2d2" /> </p>
 
-- 🌱 I’m currently learning **Data Science, ML, Solidity**
+- 🌱 I’m currently learning **Blockchain and Java with Spring**
 
 - 👨‍💻 All of my projects are available at [imrtr.onrender.com](imrtr.onrender.com)
 
